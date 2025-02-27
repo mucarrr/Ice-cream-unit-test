@@ -1,0 +1,32 @@
+export const mockData = [
+  {
+    "name": "Golden Honey Almond",
+    "image": "/ice-1.png",
+    "price": 5.5
+  },
+  {
+    "name": "Chocolate Thunder",
+    "image": "/ice-2.png",
+    "price": 4.5
+  },
+  {
+    "name": "Vanilla Dreams",
+    "image": "/ice-3.png",
+    "price": 2.5
+  },
+  {
+    "name": "Mango Breeze",
+    "image": "/ice-4.png",
+    "price": 8.0
+  },
+  {
+    "name": "Caramel Swirl",
+    "image": "/ice-1.png",
+    "price": 8.0
+  },
+  {
+    "name": "Pistachio Dream",
+    "image": "/ice-3.png",
+    "price": 10.0
+  }
+  ];
