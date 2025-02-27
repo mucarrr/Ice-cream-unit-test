@@ -1,8 +1,5 @@
-# React + Vite
+# Ice-cream Ordering App! 🍦
+In this single-page project, I have significantly enhanced my existing unit testing skills and understanding. Encountering various errors during both the coding and testing phases has been instrumental in my professional growth. Additionally, I have leveraged artificial intelligence to implement targeted improvements in specific areas.
+# Preview of the project 
+![](ice-cream.gif)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
